@@ -1,5 +1,62 @@
 # Dicionário de Desenvolvedor
 
+## Índice de Categorias
+
+## Índice de Categorias
+
+1. [Termos Gerais de Programação](#1-termos-gerais-de-programação)
+2. [Estruturas de Dados](#2-estruturas-de-dados)
+3. [Conceitos de POO (Programação Orientada a Objetos)](#3-conceitos-de-poo-programação-orientada-a-objetos)
+4. [Paradigmas de Programação](#4-paradigmas-de-programação)
+5. [Banco de Dados](#5-banco-de-dados)
+6. [Segurança](#6-segurança)
+7. [Desenvolvimento Web](#7-desenvolvimento-web)
+8. [Ferramentas e Tecnologias](#8-ferramentas-e-tecnologias)
+9. [Conceitos de Redes](#9-conceitos-de-redes)
+10. [Outros Termos Comuns](#10-outros-termos-comuns)
+11. [Conceitos de Linguagens de Programação](#11-conceitos-de-linguagens-de-programação)
+12. [Padrões de Design](#12-padrões-de-design)
+13. [Metodologias de Desenvolvimento](#13-metodologias-de-desenvolvimento)
+14. [Desenvolvimento Mobile](#14-desenvolvimento-mobile)
+15. [Ferramentas de Testes](#15-ferramentas-de-testes)
+16. [Qualidade de Código](#16-qualidade-de-código)
+17. [Conceitos de Cloud Computing](#17-conceitos-de-cloud-computing)
+18. [Tecnologias e Frameworks JavaScript](#18-tecnologias-e-frameworks-javascript)
+19. [Web Performance](#19-web-performance)
+20. [Desenvolvimento de APIs](#20-desenvolvimento-de-apis)
+21. [Ferramentas de Build e CI/CD](#21-ferramentas-de-build-e-cicd)
+22. [Protocolos de Comunicação](#22-protocolos-de-comunicação)
+23. [Arquitetura de Software](#23-arquitetura-de-software)
+24. [Redes e Segurança](#24-redes-e-segurança)
+25. [Desenvolvimento de Interfaces](#25-desenvolvimento-de-interfaces)
+26. [Machine Learning e Data Science](#26-machine-learning-e-data-science)
+27. [Big Data](#27-big-data)
+28. [Inteligência Artificial](#28-inteligência-artificial)
+29. [Blockchain e Criptomoedas](#29-blockchain-e-criptomoedas)
+30. [Conceitos de Infraestrutura](#30-conceitos-de-infraestrutura)
+31. [Sistemas Distribuídos](#31-sistemas-distribuídos)
+32. [Tecnologias de Armazenamento](#32-tecnologias-de-armazenamento)
+33. [Desenvolvimento de Jogos](#33-desenvolvimento-de-jogos)
+34. [Redes Sociais e Desenvolvimento Social](#34-redes-sociais-e-desenvolvimento-social)
+35. [Testes de Performance](#35-testes-de-performance)
+36. [Desenvolvimento de Frontend](#36-desenvolvimento-de-frontend)
+37. [Desenvolvimento de Backend](#37-desenvolvimento-de-backend)
+38. [Metodologias Ágeis](#38-metodologias-ágeis)
+39. [Segurança da Informação](#39-segurança-da-informação)
+40. [Ferramentas de Desenvolvimento](#40-ferramentas-de-desenvolvimento)
+41. [Testes de Software](#41-testes-de-software)
+42. [Bancos de Dados Relacionais](#42-bancos-de-dados-relacionais)
+43. [Bancos de Dados NoSQL](#43-bancos-de-dados-nosql)
+44. [Computação Gráfica](#44-computação-gráfica)
+45. [Desenvolvimento de Software](#45-desenvolvimento-de-software)
+46. [Conceitos de Redes](#46-conceitos-de-redes)
+47. [Desenvolvimento Web Avançado](#47-desenvolvimento-web-avançado)
+48. [Segurança em Software](#48-segurança-em-software)
+49. [Programação Concorrente e Assíncrona](#49-programação-concorrente-e-assíncrona)
+50. [Ferramentas e Tecnologias Diversas](#50-ferramentas-e-tecnologias-diversas)
+
+
+
 ## 1. Termos Gerais de Programação
 
 | Ordem | Termo                   | Descrição                                                                 |
