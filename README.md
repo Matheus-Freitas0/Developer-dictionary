@@ -709,4 +709,49 @@
 | 13    | WebSockets                    | Protocolo que permite comunicação bidirecional em tempo real entre o cliente e o servidor através de uma conexão persistente. |
 | 14    | Content Delivery Network (CDN) | Rede de servidores distribuídos que entrega conteúdo web aos usuários com base em sua localização geográfica para melhorar a performance e a disponibilidade. |
 | 15    | Micro Frontends               | Arquitetura onde a interface de usuário é dividida em componentes independentes e autônomos, facilitando a escalabilidade e a manutenção. |
+| 16    | Code Splitting (Divisão de Código) | Técnica usada para dividir o código em pacotes menores e carregá-los sob demanda, melhorando o tempo de carregamento inicial. |
 
+## 48. Segurança em Software
+
+| Ordem | Termo                              | Descrição                                                                                               |
+|-------|------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 1     | Cross-Site Scripting (XSS)         | Tipo de ataque em que scripts maliciosos são injetados em sites confiáveis.                              |
+| 2     | SQL Injection                      | Ataque em que código SQL malicioso é inserido em um banco de dados através de uma entrada vulnerável.    |
+| 3     | Man-in-the-Middle (MitM)           | Ataque em que o invasor intercepta e possivelmente altera a comunicação entre duas partes sem que elas saibam. |
+| 4     | Phishing                           | Técnica de engenharia social que visa enganar os usuários para obter informações confidenciais, como senhas ou números de cartão de crédito. |
+| 5     | Zero-Day Vulnerability             | Vulnerabilidade de segurança desconhecida pelos responsáveis pelo software e explorada por atacantes antes de ser corrigida. |
+| 6     | Buffer Overflow (Estouro de Buffer)| Erro que ocorre quando um programa escreve mais dados em um buffer do que ele pode armazenar, permitindo a execução de código malicioso. |
+| 7     | Social Engineering (Engenharia Social) | Técnica usada por atacantes para enganar as pessoas e obter informações confidenciais ou acesso não autorizado. |
+| 8     | Encryption (Criptografia)          | Processo de codificação de informações para impedir o acesso não autorizado.                             |
+| 9     | Public Key Infrastructure (PKI)    | Sistema de gerenciamento de chaves criptográficas e certificados digitais que verifica a identidade de usuários e dispositivos. |
+| 10    | Two-Factor Authentication (2FA)    | Método de autenticação que exige dois fatores de verificação distintos antes de conceder acesso.          |
+
+## 49. Programação Concorrente e Assíncrona
+
+| Ordem | Termo                              | Descrição                                                                                               |
+|-------|------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 1     | Thread (Tarefa ou Thread)          | Unidade de execução dentro de um processo que pode ser executada simultaneamente com outras threads.     |
+| 2     | Processo                           | Programa em execução que possui seu próprio espaço de memória e recursos alocados pelo sistema operacional. |
+| 3     | Mutex (Mutual Exclusion)           | Mecanismo usado para garantir que apenas uma thread acesse um recurso compartilhado por vez.             |
+| 4     | Semaphore (Semáforo)               | Estrutura que controla o acesso a recursos compartilhados por várias threads, permitindo um número limitado de acessos simultâneos. |
+| 5     | Deadlock (Interbloqueio)           | Situação em que duas ou mais threads ficam bloqueadas permanentemente porque cada uma está esperando por um recurso que a outra está segurando. |
+| 6     | Race Condition                     | Condição em que o comportamento do software depende da ordem de execução de threads ou processos concorrentes. |
+| 7     | Event Loop (Laço de Eventos)       | Estrutura que monitora eventos e delega o trabalho para ser processado de maneira assíncrona.            |
+| 8     | Asynchronous Programming (Programação Assíncrona) | Paradigma em que operações são iniciadas e a execução continua sem esperar que a operação seja concluída. |
+| 9     | Future/Promise                     | Representação de um valor que pode estar disponível em algum momento no futuro, usado em programação assíncrona. |
+| 10    | Coroutines                         | Funções que podem ser pausadas e retomadas, usadas para escrever código assíncrono de maneira mais legível. |
+
+## 50. Ferramentas e Tecnologias Diversas
+
+| Ordem | Termo                              | Descrição                                                                                               |
+|-------|------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 1     | CLI (Command Line Interface)       | Interface de usuário baseada em texto usada para interagir com o sistema operacional ou software.        |
+| 2     | GUI (Graphical User Interface)     | Interface gráfica que permite aos usuários interagir com o sistema por meio de ícones, menus e janelas.  |
+| 3     | Shell Script                       | Script que automatiza tarefas no sistema operacional usando comandos de shell.                           |
+| 4     | Cron Job                           | Tarefa agendada para ser executada automaticamente em horários ou intervalos regulares, no Unix e sistemas semelhantes. |
+| 5     | Dockerfile                         | Arquivo que contém instruções para criar uma imagem Docker, incluindo a instalação de dependências e configuração de ambiente. |
+| 6     | YAML (YAML Ain't Markup Language)  | Formato de serialização de dados que é fácil de ler e escrever, usado em configurações de CI/CD e orquestração de contêineres. |
+| 7     | JSON (JavaScript Object Notation)  | Formato de dados leve e fácil de usar para troca de informações entre servidores e clientes web.         |
+| 8     | Markdown                           | Linguagem de marcação leve que converte texto simples em HTML, amplamente usada para documentação.       |
+| 9     | GraphQL Schema                     | Definição de tipos, consultas e mutações em uma API GraphQL, especificando como os dados podem ser consultados. |
+| 10    | Swagger                            | Ferramenta para documentação de APIs que permite gerar descrições detalhadas das endpoints e métodos de uma API REST. |
