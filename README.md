@@ -2,8 +2,6 @@
 
 ## Índice de Categorias
 
-## Índice de Categorias
-
 1. [Termos Gerais de Programação](#1-termos-gerais-de-programação)
 2. [Estruturas de Dados](#2-estruturas-de-dados)
 3. [Conceitos de POO (Programação Orientada a Objetos)](#3-conceitos-de-poo-programação-orientada-a-objetos)
